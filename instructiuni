@@ -1,0 +1,4 @@
+variabilele speed_limit si speed_factor sunt setate prin funtia set_motors_params pe 644
+pe 328 exista macrouri pentru aceeasi treaba, factor dreapta si stanga.
+macrourile se seteaza pentru a proteja motorul (valorile se aleg dupa experimente) si ca robotul sa mearga drept.
+variabilele se seteaza in funtie de strategie si dispozitie
