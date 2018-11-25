@@ -11,3 +11,10 @@ You can reach us for more info.
 ###### Youtube
 * [A match of or first contest](https://www.youtube.com/watch?v=rlrTxM9EhVk)
 * [Testing gone wrong](https://www.youtube.com/watch?v=shfqgkyOkAU)
+## Disclaimer 
+This code was abandoned while beeing unde development as we started developing the firware on another platform, another approach as this did not suit our needs (flexibility, rather that execution speed).
+Even if this code worked well, it should be used just as inspiration.
+## TODO
+* Organise strategies folders
+* Comment more code
+* Upload state diagram
